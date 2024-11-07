@@ -10,8 +10,6 @@
   <img align="center" alt="keven-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="keven-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="keven-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg">
-  
-
 </div>
 
 ##
@@ -19,5 +17,5 @@
 <div> 
   <a href = "mailto:kevenhenrique031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/keven-henrique-7b9329258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img align="right" alt="keven-gif" heigh="200" width="200" src="https://github.com/kevenhenrique/kevenhenrique/blob/main/download%20(1).gif"
 </div>
