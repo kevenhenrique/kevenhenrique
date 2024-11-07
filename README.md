@@ -19,3 +19,9 @@
   <a href="www.linkedin.com/in/keven-henrique-7b9329258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" alt="keven-gif" heigh="200" width="200" src="https://github.com/kevenhenrique/kevenhenrique/blob/main/download%20(1).gif"
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevenhenrique/kevenhenrique/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keven/kevenhenrique/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kevenhenrique/kevenhenrique/output/github-contribution-grid-snake.svg">
+</picture>
