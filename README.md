@@ -2,7 +2,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF779&width=435&lines=Seja+Bem+Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
  Olá! Me chamo Keven Henrique
- -
+<h3></h3>
 - 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas e estou aprofundando meus estudos na linguagem C# e suas tecnologias.
   
 #
