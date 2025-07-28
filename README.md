@@ -23,7 +23,7 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="25" alt="css logo" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/csharp-original.svg" height="25" alt="c# logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="25" alt="c# logo" />
   <img width="8" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="25" alt="myysql logo" />
