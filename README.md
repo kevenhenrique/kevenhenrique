@@ -3,7 +3,7 @@
 </div>
  Olá! Me chamo Keven Henrique
 <h3></h3>
-- 🌱 Atualmente curso Análise e Desenvolvimento de Sistemas e estou aprofundando meus estudos na linguagem C# e suas tecnologias.
+- 🌱 Atualmente curso Ciência da computação e estou aprofundando meus estudos na linguagem java e suas tecnologias.
   
 #
   <img align="right" alt="" height="190px" src="https://github.com/kevenhenrique/kevenhenrique/blob/main/download%20(1).gif">
@@ -23,10 +23,9 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="25" alt="css logo" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="25" alt="c# logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/csharp-original.svg" height="25" alt="c# logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="25" alt="dotnetcore logo" />
-  <img width="8" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="25" alt="myysql logo" />
   <img width="8" />
   
