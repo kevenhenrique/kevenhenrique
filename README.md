@@ -3,9 +3,9 @@
 </div>
  Olá! Me chamo Keven Henrique
 <h3></h3>
-- 🌱 Atualmente curso Ciência da computação e estou aprofundando meus estudos na linguagem python e suas tecnologias,e
-desejo aplicar meus conhecimentos na área de dados.
-  
+- 🌱 Atualmente curso Ciência da computação no Centro Universitário UNA, estou desenvolvendo habilidades práticas em Excel, Power BI, SQL, Python e AWS, aplicando esses conhecimentos em projetos de estudo e exercícios práticos.
+Tenho interesse em análise exploratória de dados, visualização de informações, criação de dashboards e apoio à tomada de decisão baseada em dados.
+
 #
   <img align="right" alt="" height="190px" src="https://github.com/kevenhenrique/kevenhenrique/blob/main/download%20(1).gif">
 
